@@ -7,7 +7,7 @@
  * @donate BTC: 1Kyf8uLgGrco8FdVuYpqi5CqVaVNxvnfDJ
  * @patreon USDT TRC20: TV5jZrPGJJcxrdS7wWpmNJZzqihZ6HBqQZ
  * @website if you want to support me please feel free to dm me discord: tigertaev
- * @updateUrl test
+ * @updateUrl https://raw.githubusercontent.com/TigerTaeV/BetterDiscordPlugins/refs/heads/main/CallTimer/CallTimeCounter.plugin.js
  */
 
 "use strict";
