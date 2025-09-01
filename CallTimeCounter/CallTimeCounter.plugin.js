@@ -1,11 +1,11 @@
 /**
  * @name CallTimeCounter
- * @author Abdualrahman
+ * @author tigertaev
  * @authorLink https://discord.com/users/1333264984817401944
  * @version 1.0.0
  * @description Shows how much time you are in a voice chat..
  * @donate https://www.if-you-want-to-help-me-please-dm.me
- * @updateUrl 
+ * @updateUrl https://raw.githubusercontent.com/TigerTaeV/BetterDiscordPlugins/refs/heads/main/CallTimeCounter/CallTimeCounter.plugin.js
  */
 
 const { Webpack, Data } = BdApi;
