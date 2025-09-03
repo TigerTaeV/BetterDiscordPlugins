@@ -3,7 +3,7 @@
  * @author tigertaev
  * @authorLink https://discord.com/users/1333264984817401944
  * @version 1.2.1
- * @description Displays a live timer for how long you're in a voice chat.
+ * @description Shows how much time you are in a voice chat.
  * @donate https://www.if-you-want-to-help-me-please-dm.me
  * @updateUrl https://raw.githubusercontent.com/TigerTaeV/BetterDiscordPlugins/refs/heads/main/CallTimeCounter/CallTimeCounter.plugin.js
  */
